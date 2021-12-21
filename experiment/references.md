@@ -18,9 +18,9 @@
   <td>Developer : Dr. Pruthviraj U | NITK<br><br>
   Contributors :
   <ul style="list-style-type: none;">
-  <li>Akshaya| NITK</li>
-  <li>Anusha B Salian| NITK</li>
   <li>Santhosh Acharya | NITK</li>
+  <li>Akshaya | NITK</li>
+  <li>Anusha B Salian | NITK</li>
   <li>Sampath Kumar | NITK</li>
   <li>Swathi Shetty | NITK</li>
   <li>Aishwarya Hegde | NITK</li>
