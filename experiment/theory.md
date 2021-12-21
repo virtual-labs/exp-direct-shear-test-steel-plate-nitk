@@ -32,7 +32,7 @@ Source: [https://expeditionworkshed.org/workshed/bolted-steel-connection-failure
 
 <div style="text-align: center">
 
-[<img src="./images/plate4.png" width="200" height="150"/>](./images/plate4.png)
+[<img src="./images/plate4.png" width="150" height="150"/>](./images/plate4.png)
 [<img src="./images/plate5.png" width="150" height="150"/>](./images/plate5.png)
 
 </div>
