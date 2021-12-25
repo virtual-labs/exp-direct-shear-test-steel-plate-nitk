@@ -2,38 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The ratio of maximum shear stress and average shear stress for a rectangular section is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1.5",
+        "b": "2.0",
+        "c": "1.0",
+        "d": "2.5"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Lap joint is a example for single shear (say true or false)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "When a body is subjected to a direct tensile stress in one plane, the maximum shear stress is __________ the maximum normal stress.",
+      "answers": {
+        "a": "Twice",
+        "b": "One-half",
+        "c": "Three times",
+        "d": "Half"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }

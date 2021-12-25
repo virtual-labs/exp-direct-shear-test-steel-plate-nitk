@@ -2,38 +2,68 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In shear test conducted for mild steel rod( M.S.R), mild steel plate( M.S.P) and timber( T), which is the correct order of shear strength obtained",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "M.S.R in double shear > M.S.P in double shear > Timber in single shear",
+        "b": "Timber in single shear > M.S.R in double shear > M.S.P in double shear",
+        "c": "M.S.P in double shear > M.S.R in double shear > Timber in single shear",
+        "d": "M.S.R in double shear > Timber in single shear > M.S.P in double shear"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "For two equal uniformly loaded spans, the interior reaction is _____the shear at that location.",
+      "answers": {
+        "a": "Half",
+        "b": "Twice",
+        "c": "5/8",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Principle plane is a plane on which the shear stress is",
+      "answers": {
+        "a": "Maximum",
+        "b": "Minimum",
+        "c": "Zero",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Shear stress is maximum at the neutral axis. ( Say true or false)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
